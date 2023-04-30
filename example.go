@@ -2,6 +2,6 @@ package golang_example
 import(
   "fmt"
 )
-func say()  {
+func Say()  {
   fmt.Println("Hello World")
 }
