@@ -5,6 +5,6 @@ import(
 func Say()  {
   fmt.Println("Hello World")
 }
-func Calc(){
+func calc(){
     fmt.Println("Calcualtion")
 }
