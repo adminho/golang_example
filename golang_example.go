@@ -5,3 +5,6 @@ import(
 func Say()  {
   fmt.Println("Hello World")
 }
+func calc(){
+    fmt.Println(">>>>>>>> x<<<<<<")
+}
