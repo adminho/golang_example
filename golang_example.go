@@ -1,7 +1,5 @@
 package golang_example
-import(
-  "fmt"
-)
+import "fmt"
 func Say()  {
   fmt.Println("Hello World")
 }
